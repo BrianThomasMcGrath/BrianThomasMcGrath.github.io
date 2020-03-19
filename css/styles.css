@@ -1,8 +1,16 @@
 /****** General Styles ******/
+body {
+  
+}
+.container{
+  display: grid;
+}
 .row {
   width: 100%
 }
-
+.col {
+  float: left;
+}
 .col-small {
   width: 20%
 }
